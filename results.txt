@@ -1,0 +1,6 @@
+
+Weather Stats for - KANNUR  || 23 Jun 2021 | 01:22:04 PM
+Current temperature is: 28.86 deg C
+Current weather desc  :broken clouds
+Current Humidity      :74%
+Current wind speed    :4.9kmph
